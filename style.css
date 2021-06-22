@@ -1,0 +1,55 @@
+body {
+  font-family: Arial;
+}
+header {
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  border-color: black;
+  border-style: solid;
+  font-size: 45pt;
+}
+
+
+h3 {
+  text-align: center;
+  font-size: 30pt;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.left-side {
+  padding-left: 10em;
+  padding-right: 2em;
+  padding-bottom: 2em;
+}
+
+.right-side {
+  padding: 10em 4em 1em 6em;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.designer-body {
+  padding-left: 6em;
+  padding-right: 4em;
+}
+
+h4 {
+  font-size: 16pt;
+  margin-block-end: .2em;
+  margin: .2em;
+}
+
+#blank {
+  border-bottom: 3em solid #5aceeb;
+  padding: 3em;
+  border-bottom-width: 2em;
+}
+
+#sec3 {
+  background-color: darkblue;
+  padding: 8em;
+}
